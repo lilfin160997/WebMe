@@ -10,3 +10,4 @@ Defer.js('https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.bundle.min.js',
 Defer.js('https://cdn.jsdelivr.net/npm/startbootstrap-sb-admin@7.0.5/dist/assets/demo/chart-area-demo.min.js', 'chart-area-demo.min.js', 0);
 Defer.js('https://cdn.jsdelivr.net/npm/startbootstrap-sb-admin@7.0.5/dist/assets/demo/chart-bar-demo.min.js', 'chart-bar-demo.min.js', 0);
 Defer.js('https://cdn.jsdelivr.net/npm/startbootstrap-sb-admin@7.0.5/dist/assets/demo/datatables-demo.min.js', 'datatables-demo.min.js', 0);
+Defer.js('https://cdn.jsdelivr.net/npm/cookiejs@2.1.2/dist/cookie.min.js', 'cookie-js', 0);
